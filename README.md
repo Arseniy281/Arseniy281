@@ -27,3 +27,13 @@
 ---
 
 ![](https://komarev.com/ghpvc/?username=Arseniy281&color=blue)
+
+---
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/pCd-39uhMpMAAAAC/rain-totoro.gif" width="400" />
+</p>
+
+<p align="center">
+  <i>Спасибо, что заглянули! 🌧️</i>
+</p>
