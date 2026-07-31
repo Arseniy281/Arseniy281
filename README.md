@@ -15,6 +15,4 @@
 
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arseniy281&style=flat-square&color=blue" />
-</p>
+![](https://komarev.com/ghpvc/?username=Arseniy281&color=blue)
